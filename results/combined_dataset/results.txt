@@ -1,0 +1,395 @@
+successfully loaded!!!!
+Models moved to GPU.
+#####################################################################################
+True
+Using RandomRotation, RandomFlip
+/usr/local/lib/python3.7/dist-packages/torchvision/transforms/transforms.py:1298: UserWarning: The parameter 'resample' is deprecated since 0.12 and will be removed 0.14. Please use 'interpolation' instead.
+  "The parameter 'resample' is deprecated since 0.12 and will be removed 0.14. "
+Epoch [    1/  150] | preliminary loss: 0.487501 
+/usr/local/lib/python3.7/dist-packages/torch/nn/functional.py:3722: UserWarning: nn.functional.upsample is deprecated. Use nn.functional.interpolate instead.
+  warnings.warn("nn.functional.upsample is deprecated. Use nn.functional.interpolate instead.")
+Epoch [    1/  150] | validation_coeffient: 0.768071 
+./SaveModel/ESFP_B0_Endo_Combined_LA_1
+Save Learning Ability Optimized Model at Epoch [    1/  150]
+Epoch [    2/  150] | preliminary loss: 0.413601 
+Epoch [    2/  150] | validation_coeffient: 0.807309 
+./SaveModel/ESFP_B0_Endo_Combined_LA_1
+Save Learning Ability Optimized Model at Epoch [    2/  150]
+Epoch [    3/  150] | preliminary loss: 0.459568 
+Epoch [    3/  150] | validation_coeffient: 0.838359 
+./SaveModel/ESFP_B0_Endo_Combined_LA_1
+Save Learning Ability Optimized Model at Epoch [    3/  150]
+Epoch [    4/  150] | preliminary loss: 0.408794 
+Epoch [    4/  150] | validation_coeffient: 0.851787 
+./SaveModel/ESFP_B0_Endo_Combined_LA_1
+Save Learning Ability Optimized Model at Epoch [    4/  150]
+Epoch [    5/  150] | preliminary loss: 0.452093 
+Epoch [    5/  150] | validation_coeffient: 0.851196 
+Epoch [    6/  150] | preliminary loss: 0.404951 
+Epoch [    6/  150] | validation_coeffient: 0.861305 
+./SaveModel/ESFP_B0_Endo_Combined_LA_1
+Save Learning Ability Optimized Model at Epoch [    6/  150]
+Epoch [    7/  150] | preliminary loss: 0.442893 
+Epoch [    7/  150] | validation_coeffient: 0.871050 
+./SaveModel/ESFP_B0_Endo_Combined_LA_1
+Save Learning Ability Optimized Model at Epoch [    7/  150]
+Epoch [    8/  150] | preliminary loss: 0.536402 
+Epoch [    8/  150] | validation_coeffient: 0.863404 
+Epoch [    9/  150] | preliminary loss: 0.292129 
+Epoch [    9/  150] | validation_coeffient: 0.883839 
+./SaveModel/ESFP_B0_Endo_Combined_LA_1
+Save Learning Ability Optimized Model at Epoch [    9/  150]
+Epoch [   10/  150] | preliminary loss: 0.457925 
+Epoch [   10/  150] | validation_coeffient: 0.887941 
+./SaveModel/ESFP_B0_Endo_Combined_LA_1
+Save Learning Ability Optimized Model at Epoch [   10/  150]
+Epoch [   11/  150] | preliminary loss: 0.387211 
+Epoch [   11/  150] | validation_coeffient: 0.890532 
+./SaveModel/ESFP_B0_Endo_Combined_LA_1
+Save Learning Ability Optimized Model at Epoch [   11/  150]
+Epoch [   12/  150] | preliminary loss: 0.278934 
+Epoch [   12/  150] | validation_coeffient: 0.895250 
+./SaveModel/ESFP_B0_Endo_Combined_LA_1
+Save Learning Ability Optimized Model at Epoch [   12/  150]
+Epoch [   13/  150] | preliminary loss: 0.286866 
+Epoch [   13/  150] | validation_coeffient: 0.901988 
+./SaveModel/ESFP_B0_Endo_Combined_LA_1
+Save Learning Ability Optimized Model at Epoch [   13/  150]
+Epoch [   14/  150] | preliminary loss: 0.349390 
+Epoch [   14/  150] | validation_coeffient: 0.891022 
+Epoch [   15/  150] | preliminary loss: 0.289429 
+Epoch [   15/  150] | validation_coeffient: 0.905631 
+./SaveModel/ESFP_B0_Endo_Combined_LA_1
+Save Learning Ability Optimized Model at Epoch [   15/  150]
+Epoch [   16/  150] | preliminary loss: 0.475385 
+Epoch [   16/  150] | validation_coeffient: 0.897257 
+Epoch [   17/  150] | preliminary loss: 0.510473 
+Epoch [   17/  150] | validation_coeffient: 0.903315 
+Epoch [   18/  150] | preliminary loss: 0.279853 
+Epoch [   18/  150] | validation_coeffient: 0.897746 
+Epoch [   19/  150] | preliminary loss: 0.275399 
+Epoch [   19/  150] | validation_coeffient: 0.913953 
+./SaveModel/ESFP_B0_Endo_Combined_LA_1
+Save Learning Ability Optimized Model at Epoch [   19/  150]
+Epoch [   20/  150] | preliminary loss: 0.315382 
+Epoch [   20/  150] | validation_coeffient: 0.911461 
+Epoch [   21/  150] | preliminary loss: 0.298249 
+Epoch [   21/  150] | validation_coeffient: 0.906707 
+Epoch [   22/  150] | preliminary loss: 0.274435 
+Epoch [   22/  150] | validation_coeffient: 0.912073 
+Epoch [   23/  150] | preliminary loss: 0.277896 
+Epoch [   23/  150] | validation_coeffient: 0.904414 
+Epoch [   24/  150] | preliminary loss: 0.212157 
+Epoch [   24/  150] | validation_coeffient: 0.923347 
+./SaveModel/ESFP_B0_Endo_Combined_LA_1
+Save Learning Ability Optimized Model at Epoch [   24/  150]
+Epoch [   25/  150] | preliminary loss: 0.279848 
+Epoch [   25/  150] | validation_coeffient: 0.923179 
+Epoch [   26/  150] | preliminary loss: 0.279113 
+Epoch [   26/  150] | validation_coeffient: 0.918364 
+Epoch [   27/  150] | preliminary loss: 0.216168 
+Epoch [   27/  150] | validation_coeffient: 0.923253 
+Epoch [   28/  150] | preliminary loss: 0.238212 
+Epoch [   28/  150] | validation_coeffient: 0.919277 
+Epoch [   29/  150] | preliminary loss: 0.335678 
+Epoch [   29/  150] | validation_coeffient: 0.922472 
+Epoch [   30/  150] | preliminary loss: 0.295525 
+Epoch [   30/  150] | validation_coeffient: 0.921896 
+Epoch [   31/  150] | preliminary loss: 0.242303 
+Epoch [   31/  150] | validation_coeffient: 0.925276 
+./SaveModel/ESFP_B0_Endo_Combined_LA_1
+Save Learning Ability Optimized Model at Epoch [   31/  150]
+Epoch [   32/  150] | preliminary loss: 0.313370 
+Epoch [   32/  150] | validation_coeffient: 0.926817 
+./SaveModel/ESFP_B0_Endo_Combined_LA_1
+Save Learning Ability Optimized Model at Epoch [   32/  150]
+Epoch [   33/  150] | preliminary loss: 0.222678 
+Epoch [   33/  150] | validation_coeffient: 0.925359 
+Epoch [   34/  150] | preliminary loss: 0.279142 
+Epoch [   34/  150] | validation_coeffient: 0.925652 
+Epoch [   35/  150] | preliminary loss: 0.164395 
+Epoch [   35/  150] | validation_coeffient: 0.927408 
+./SaveModel/ESFP_B0_Endo_Combined_LA_1
+Save Learning Ability Optimized Model at Epoch [   35/  150]
+Epoch [   36/  150] | preliminary loss: 0.267328 
+Epoch [   36/  150] | validation_coeffient: 0.930171 
+./SaveModel/ESFP_B0_Endo_Combined_LA_1
+Save Learning Ability Optimized Model at Epoch [   36/  150]
+Epoch [   37/  150] | preliminary loss: 0.416156 
+Epoch [   37/  150] | validation_coeffient: 0.930144 
+Epoch [   38/  150] | preliminary loss: 0.244228 
+Epoch [   38/  150] | validation_coeffient: 0.927292 
+Epoch [   39/  150] | preliminary loss: 0.237784 
+Epoch [   39/  150] | validation_coeffient: 0.928032 
+Epoch [   40/  150] | preliminary loss: 0.176094 
+Epoch [   40/  150] | validation_coeffient: 0.929925 
+Epoch [   41/  150] | preliminary loss: 0.303498 
+Epoch [   41/  150] | validation_coeffient: 0.932090 
+./SaveModel/ESFP_B0_Endo_Combined_LA_1
+Save Learning Ability Optimized Model at Epoch [   41/  150]
+Epoch [   42/  150] | preliminary loss: 0.203290 
+Epoch [   42/  150] | validation_coeffient: 0.936225 
+./SaveModel/ESFP_B0_Endo_Combined_LA_1
+Save Learning Ability Optimized Model at Epoch [   42/  150]
+Epoch [   43/  150] | preliminary loss: 0.175688 
+Epoch [   43/  150] | validation_coeffient: 0.935528 
+Epoch [   44/  150] | preliminary loss: 0.228852 
+Epoch [   44/  150] | validation_coeffient: 0.929764 
+Epoch [   45/  150] | preliminary loss: 0.183009 
+Epoch [   45/  150] | validation_coeffient: 0.930687 
+Epoch [   46/  150] | preliminary loss: 0.219676 
+Epoch [   46/  150] | validation_coeffient: 0.934409 
+Epoch [   47/  150] | preliminary loss: 0.240812 
+Epoch [   47/  150] | validation_coeffient: 0.931967 
+Epoch [   48/  150] | preliminary loss: 0.194718 
+Epoch [   48/  150] | validation_coeffient: 0.938040 
+./SaveModel/ESFP_B0_Endo_Combined_LA_1
+Save Learning Ability Optimized Model at Epoch [   48/  150]
+Epoch [   49/  150] | preliminary loss: 0.216323 
+Epoch [   49/  150] | validation_coeffient: 0.934834 
+Epoch [   50/  150] | preliminary loss: 0.200342 
+Epoch [   50/  150] | validation_coeffient: 0.937124 
+Epoch [   51/  150] | preliminary loss: 0.187128 
+Epoch [   51/  150] | validation_coeffient: 0.930743 
+Epoch [   52/  150] | preliminary loss: 0.224594 
+Epoch [   52/  150] | validation_coeffient: 0.939118 
+./SaveModel/ESFP_B0_Endo_Combined_LA_1
+Save Learning Ability Optimized Model at Epoch [   52/  150]
+Epoch [   53/  150] | preliminary loss: 0.160623 
+Epoch [   53/  150] | validation_coeffient: 0.942717 
+./SaveModel/ESFP_B0_Endo_Combined_LA_1
+Save Learning Ability Optimized Model at Epoch [   53/  150]
+Epoch [   54/  150] | preliminary loss: 0.193678 
+Epoch [   54/  150] | validation_coeffient: 0.941575 
+Epoch [   55/  150] | preliminary loss: 0.227781 
+Epoch [   55/  150] | validation_coeffient: 0.938975 
+Epoch [   56/  150] | preliminary loss: 0.229194 
+Epoch [   56/  150] | validation_coeffient: 0.939185 
+Epoch [   57/  150] | preliminary loss: 0.254192 
+Epoch [   57/  150] | validation_coeffient: 0.940026 
+Epoch [   58/  150] | preliminary loss: 0.203484 
+Epoch [   58/  150] | validation_coeffient: 0.936605 
+Epoch [   59/  150] | preliminary loss: 0.157628 
+Epoch [   59/  150] | validation_coeffient: 0.941336 
+Epoch [   60/  150] | preliminary loss: 0.281370 
+Epoch [   60/  150] | validation_coeffient: 0.943715 
+./SaveModel/ESFP_B0_Endo_Combined_LA_1
+Save Learning Ability Optimized Model at Epoch [   60/  150]
+Epoch [   61/  150] | preliminary loss: 0.191247 
+Epoch [   61/  150] | validation_coeffient: 0.933180 
+Epoch [   62/  150] | preliminary loss: 0.207672 
+Epoch [   62/  150] | validation_coeffient: 0.942384 
+Epoch [   63/  150] | preliminary loss: 0.254043 
+Epoch [   63/  150] | validation_coeffient: 0.945034 
+./SaveModel/ESFP_B0_Endo_Combined_LA_1
+Save Learning Ability Optimized Model at Epoch [   63/  150]
+Epoch [   64/  150] | preliminary loss: 0.437331 
+Epoch [   64/  150] | validation_coeffient: 0.942561 
+Epoch [   65/  150] | preliminary loss: 0.171118 
+Epoch [   65/  150] | validation_coeffient: 0.937669 
+Epoch [   66/  150] | preliminary loss: 0.206449 
+Epoch [   66/  150] | validation_coeffient: 0.943904 
+Epoch [   67/  150] | preliminary loss: 0.154336 
+Epoch [   67/  150] | validation_coeffient: 0.942758 
+Epoch [   68/  150] | preliminary loss: 0.146491 
+Epoch [   68/  150] | validation_coeffient: 0.945003 
+Epoch [   69/  150] | preliminary loss: 0.201846 
+Epoch [   69/  150] | validation_coeffient: 0.943860 
+Epoch [   70/  150] | preliminary loss: 0.175791 
+Epoch [   70/  150] | validation_coeffient: 0.946395 
+./SaveModel/ESFP_B0_Endo_Combined_LA_1
+Save Learning Ability Optimized Model at Epoch [   70/  150]
+Epoch [   71/  150] | preliminary loss: 0.283407 
+Epoch [   71/  150] | validation_coeffient: 0.937053 
+Epoch [   72/  150] | preliminary loss: 0.198682 
+Epoch [   72/  150] | validation_coeffient: 0.944985 
+Epoch [   73/  150] | preliminary loss: 0.276000 
+Epoch [   73/  150] | validation_coeffient: 0.945091 
+Epoch [   74/  150] | preliminary loss: 0.168709 
+Epoch [   74/  150] | validation_coeffient: 0.941002 
+Epoch [   75/  150] | preliminary loss: 0.306971 
+Epoch [   75/  150] | validation_coeffient: 0.941663 
+Epoch [   76/  150] | preliminary loss: 0.366573 
+Epoch [   76/  150] | validation_coeffient: 0.945903 
+Epoch [   77/  150] | preliminary loss: 0.172474 
+Epoch [   77/  150] | validation_coeffient: 0.946462 
+./SaveModel/ESFP_B0_Endo_Combined_LA_1
+Save Learning Ability Optimized Model at Epoch [   77/  150]
+Epoch [   78/  150] | preliminary loss: 0.272959 
+Epoch [   78/  150] | validation_coeffient: 0.947351 
+./SaveModel/ESFP_B0_Endo_Combined_LA_1
+Save Learning Ability Optimized Model at Epoch [   78/  150]
+Epoch [   79/  150] | preliminary loss: 0.268679 
+Epoch [   79/  150] | validation_coeffient: 0.934934 
+Epoch [   80/  150] | preliminary loss: 0.416857 
+Epoch [   80/  150] | validation_coeffient: 0.942988 
+Epoch [   81/  150] | preliminary loss: 0.288633 
+Epoch [   81/  150] | validation_coeffient: 0.945124 
+Epoch [   82/  150] | preliminary loss: 0.179245 
+Epoch [   82/  150] | validation_coeffient: 0.944226 
+Epoch [   83/  150] | preliminary loss: 0.189794 
+Epoch [   83/  150] | validation_coeffient: 0.944822 
+Epoch [   84/  150] | preliminary loss: 0.171404 
+Epoch [   84/  150] | validation_coeffient: 0.947663 
+./SaveModel/ESFP_B0_Endo_Combined_LA_1
+Save Learning Ability Optimized Model at Epoch [   84/  150]
+Epoch [   85/  150] | preliminary loss: 0.159983 
+Epoch [   85/  150] | validation_coeffient: 0.948894 
+./SaveModel/ESFP_B0_Endo_Combined_LA_1
+Save Learning Ability Optimized Model at Epoch [   85/  150]
+Epoch [   86/  150] | preliminary loss: 0.233835 
+Epoch [   86/  150] | validation_coeffient: 0.948113 
+Epoch [   87/  150] | preliminary loss: 0.181129 
+Epoch [   87/  150] | validation_coeffient: 0.948128 
+Epoch [   88/  150] | preliminary loss: 0.214321 
+Epoch [   88/  150] | validation_coeffient: 0.948848 
+Epoch [   89/  150] | preliminary loss: 0.226553 
+Epoch [   89/  150] | validation_coeffient: 0.949968 
+./SaveModel/ESFP_B0_Endo_Combined_LA_1
+Save Learning Ability Optimized Model at Epoch [   89/  150]
+Epoch [   90/  150] | preliminary loss: 0.185140 
+Epoch [   90/  150] | validation_coeffient: 0.949207 
+Epoch [   91/  150] | preliminary loss: 0.238227 
+Epoch [   91/  150] | validation_coeffient: 0.945493 
+Epoch [   92/  150] | preliminary loss: 0.163668 
+Epoch [   92/  150] | validation_coeffient: 0.949611 
+Epoch [   93/  150] | preliminary loss: 0.242732 
+Epoch [   93/  150] | validation_coeffient: 0.950606 
+./SaveModel/ESFP_B0_Endo_Combined_LA_1
+Save Learning Ability Optimized Model at Epoch [   93/  150]
+Epoch [   94/  150] | preliminary loss: 0.237467 
+Epoch [   94/  150] | validation_coeffient: 0.949592 
+Epoch [   95/  150] | preliminary loss: 0.202423 
+Epoch [   95/  150] | validation_coeffient: 0.948131 
+Epoch [   96/  150] | preliminary loss: 0.164780 
+Epoch [   96/  150] | validation_coeffient: 0.939907 
+Epoch [   97/  150] | preliminary loss: 0.160007 
+Epoch [   97/  150] | validation_coeffient: 0.948619 
+Epoch [   98/  150] | preliminary loss: 0.155827 
+Epoch [   98/  150] | validation_coeffient: 0.948619 
+Epoch [   99/  150] | preliminary loss: 0.257372 
+Epoch [   99/  150] | validation_coeffient: 0.947971 
+Epoch [  100/  150] | preliminary loss: 0.176754 
+Epoch [  100/  150] | validation_coeffient: 0.947913 
+Epoch [  101/  150] | preliminary loss: 0.163948 
+Epoch [  101/  150] | validation_coeffient: 0.951404 
+./SaveModel/ESFP_B0_Endo_Combined_LA_1
+Save Learning Ability Optimized Model at Epoch [  101/  150]
+Epoch [  102/  150] | preliminary loss: 0.193283 
+Epoch [  102/  150] | validation_coeffient: 0.950573 
+Epoch [  103/  150] | preliminary loss: 0.159581 
+Epoch [  103/  150] | validation_coeffient: 0.951169 
+Epoch [  104/  150] | preliminary loss: 0.182401 
+Epoch [  104/  150] | validation_coeffient: 0.951070 
+Epoch [  105/  150] | preliminary loss: 0.167037 
+Epoch [  105/  150] | validation_coeffient: 0.950992 
+Epoch [  106/  150] | preliminary loss: 0.195522 
+Epoch [  106/  150] | validation_coeffient: 0.949202 
+Epoch [  107/  150] | preliminary loss: 0.252245 
+Epoch [  107/  150] | validation_coeffient: 0.921456 
+Epoch [  108/  150] | preliminary loss: 0.158953 
+Epoch [  108/  150] | validation_coeffient: 0.950233 
+Epoch [  109/  150] | preliminary loss: 0.172951 
+Epoch [  109/  150] | validation_coeffient: 0.953734 
+./SaveModel/ESFP_B0_Endo_Combined_LA_1
+Save Learning Ability Optimized Model at Epoch [  109/  150]
+Epoch [  110/  150] | preliminary loss: 0.167716 
+Epoch [  110/  150] | validation_coeffient: 0.946707 
+Epoch [  111/  150] | preliminary loss: 0.151556 
+Epoch [  111/  150] | validation_coeffient: 0.953872 
+./SaveModel/ESFP_B0_Endo_Combined_LA_1
+Save Learning Ability Optimized Model at Epoch [  111/  150]
+Epoch [  112/  150] | preliminary loss: 0.136345 
+Epoch [  112/  150] | validation_coeffient: 0.952401 
+Epoch [  113/  150] | preliminary loss: 0.253295 
+Epoch [  113/  150] | validation_coeffient: 0.951823 
+Epoch [  114/  150] | preliminary loss: 0.179640 
+Epoch [  114/  150] | validation_coeffient: 0.950610 
+Epoch [  115/  150] | preliminary loss: 0.220663 
+Epoch [  115/  150] | validation_coeffient: 0.946187 
+Epoch [  116/  150] | preliminary loss: 0.148069 
+Epoch [  116/  150] | validation_coeffient: 0.951200 
+Epoch [  117/  150] | preliminary loss: 0.182628 
+Epoch [  117/  150] | validation_coeffient: 0.951280 
+Epoch [  118/  150] | preliminary loss: 0.192494 
+Epoch [  118/  150] | validation_coeffient: 0.954354 
+./SaveModel/ESFP_B0_Endo_Combined_LA_1
+Save Learning Ability Optimized Model at Epoch [  118/  150]
+Epoch [  119/  150] | preliminary loss: 0.210018 
+Epoch [  119/  150] | validation_coeffient: 0.955106 
+./SaveModel/ESFP_B0_Endo_Combined_LA_1
+Save Learning Ability Optimized Model at Epoch [  119/  150]
+Epoch [  120/  150] | preliminary loss: 0.255096 
+Epoch [  120/  150] | validation_coeffient: 0.954877 
+Epoch [  121/  150] | preliminary loss: 0.201502 
+Epoch [  121/  150] | validation_coeffient: 0.952579 
+Epoch [  122/  150] | preliminary loss: 0.188605 
+Epoch [  122/  150] | validation_coeffient: 0.953166 
+Epoch [  123/  150] | preliminary loss: 0.166966 
+Epoch [  123/  150] | validation_coeffient: 0.938416 
+Epoch [  124/  150] | preliminary loss: 0.188855 
+Epoch [  124/  150] | validation_coeffient: 0.949483 
+Epoch [  125/  150] | preliminary loss: 0.172753 
+Epoch [  125/  150] | validation_coeffient: 0.950014 
+Epoch [  126/  150] | preliminary loss: 0.183119 
+Epoch [  126/  150] | validation_coeffient: 0.953833 
+Epoch [  127/  150] | preliminary loss: 0.200602 
+Epoch [  127/  150] | validation_coeffient: 0.947553 
+Epoch [  128/  150] | preliminary loss: 0.163503 
+Epoch [  128/  150] | validation_coeffient: 0.954219 
+Epoch [  129/  150] | preliminary loss: 0.160427 
+Epoch [  129/  150] | validation_coeffient: 0.946518 
+Epoch [  130/  150] | preliminary loss: 0.244047 
+Epoch [  130/  150] | validation_coeffient: 0.956010 
+./SaveModel/ESFP_B0_Endo_Combined_LA_1
+Save Learning Ability Optimized Model at Epoch [  130/  150]
+Epoch [  131/  150] | preliminary loss: 0.221639 
+Epoch [  131/  150] | validation_coeffient: 0.954087 
+Epoch [  132/  150] | preliminary loss: 0.237648 
+Epoch [  132/  150] | validation_coeffient: 0.953705 
+Epoch [  133/  150] | preliminary loss: 0.285223 
+Epoch [  133/  150] | validation_coeffient: 0.954465 
+Epoch [  134/  150] | preliminary loss: 0.207590 
+Epoch [  134/  150] | validation_coeffient: 0.947191 
+Epoch [  135/  150] | preliminary loss: 0.191374 
+Epoch [  135/  150] | validation_coeffient: 0.952538 
+Epoch [  136/  150] | preliminary loss: 0.153392 
+Epoch [  136/  150] | validation_coeffient: 0.955761 
+Epoch [  137/  150] | preliminary loss: 0.208072 
+Epoch [  137/  150] | validation_coeffient: 0.955429 
+Epoch [  138/  150] | preliminary loss: 0.132324 
+Epoch [  138/  150] | validation_coeffient: 0.957170 
+./SaveModel/ESFP_B0_Endo_Combined_LA_1
+Save Learning Ability Optimized Model at Epoch [  138/  150]
+Epoch [  139/  150] | preliminary loss: 0.270602 
+Epoch [  139/  150] | validation_coeffient: 0.955431 
+Epoch [  140/  150] | preliminary loss: 0.132941 
+Epoch [  140/  150] | validation_coeffient: 0.957507 
+./SaveModel/ESFP_B0_Endo_Combined_LA_1
+Save Learning Ability Optimized Model at Epoch [  140/  150]
+Epoch [  141/  150] | preliminary loss: 0.151469 
+Epoch [  141/  150] | validation_coeffient: 0.955984 
+Epoch [  142/  150] | preliminary loss: 0.175651 
+Epoch [  142/  150] | validation_coeffient: 0.953915 
+Epoch [  143/  150] | preliminary loss: 0.201850 
+Epoch [  143/  150] | validation_coeffient: 0.955524 
+Epoch [  144/  150] | preliminary loss: 0.211276 
+Epoch [  144/  150] | validation_coeffient: 0.952348 
+Epoch [  145/  150] | preliminary loss: 0.164573 
+Epoch [  145/  150] | validation_coeffient: 0.952636 
+Epoch [  146/  150] | preliminary loss: 0.114905 
+Epoch [  146/  150] | validation_coeffient: 0.955679 
+Epoch [  147/  150] | preliminary loss: 0.141575 
+Epoch [  147/  150] | validation_coeffient: 0.951326 
+Epoch [  148/  150] | preliminary loss: 0.146367 
+Epoch [  148/  150] | validation_coeffient: 0.955230 
+Epoch [  149/  150] | preliminary loss: 0.170308 
+Epoch [  149/  150] | validation_coeffient: 0.955217 
+Epoch [  150/  150] | preliminary loss: 0.253042 
+Epoch [  150/  150] | validation_coeffient: 0.953186 
+#####################################################################################
+optimize_m_dice: 0.957507
+./results/ESFP_B0_Endo_Combined_LA_1/Combined_Splited/
+#####################################################################################
+saved the results
+#####################################################################################
