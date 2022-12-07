@@ -33,7 +33,9 @@ Ensure that you have the data from our shared gdrive under your "MyDrive" direct
 If you would like to extract edge layers on data, run edge_detection_script.ipynb and convert_npy_png.ipynb. However this should be required only if you are creating a new dataset as the all the edge layers are available on the shared gdrive for our Cobined dataset and their individual sub-datasets. 
 
 # References
-Our code is a modification of the code for ESFPNet provided here: https://github.com/dumyCq/ESFPNet <br />
+Our code is a modification of the code for ESFPNet provided here: https://github.com/dumyCq/ESFPNet 
+For the edge_detection_script, the source code is from: https://github.com/acarcher/hed-opencv-dl
+<br />
 [1] Chang, Qi, et al. "ESFPNet: efficient deep learning architecture for real-time lesion segmentation in autofluorescence bronchoscopic video." arXiv preprint arXiv:2207.07759 (2022). <br />
 [2] Tajbakhsh, Nima, Suryakanth R. Gurudu, and Jianming Liang. "Automated polyp detection in colonoscopy videos using shape and context information." IEEE transactions on medical imaging 35.2 (2015): 630-644. <br />
 [3] Silva, Juan, et al. "Toward embedded detection of polyps in wce images for early diagnosis of colorectal cancer." International journal of computer assisted radiology and surgery 9.2 (2014): 283-293. <br />
