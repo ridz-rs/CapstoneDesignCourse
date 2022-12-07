@@ -27,6 +27,7 @@ Add the following directory to your Google Drive under "MyDrive":  https://drive
 This should give you access to our combined datasets, edge datasets and modified model.
 
 # Training Instructions
+NOTE: CUDA supported GPU is required for training. We used GPUs provided by Google Colab for this. 
 Clicking on "Run All" in the Polyp_ESFPNet.ipynb notebook will begin training on our 4 channel dataset and modified ESFPNet model. Follow the instructions given by the "INSTR" comments across the notebook if you want to train on different data, number of channels or model architecture. (Ctrl+F "INSTR" to find instructions across the notebook). If you convert one part of the code to run on 3 channel images, you will have to change all the code instances marked by "INSTR" to its 3 channel version and vice-versa. <br /> <br />
 Ensure that you have the data from our shared gdrive under your "MyDrive" directory before training. <br /> <br />
 If you would like to extract edge layers on data, run edge_detection_script.ipynb and convert_npy_png.ipynb. However this should be required only if you are creating a new dataset as the all the edge layers are available on the shared gdrive for our Cobined dataset and their individual sub-datasets. 
